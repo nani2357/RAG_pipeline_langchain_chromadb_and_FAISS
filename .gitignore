@@ -129,6 +129,8 @@ env.bak/
 venv.bak/
 .conda
 venv
+rag_env
+
 
 # Spyder project settings
 .spyderproject

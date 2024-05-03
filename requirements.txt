@@ -1,3 +1,4 @@
+langchain
 langchain-openai
 langchain-core
 streamlit
@@ -10,3 +11,10 @@ sse_starlette
 pypdf
 chromadb
 faiss-cpu
+arxiv
+wikipedia
+langchainhub
+beautifulsoup4
+cassio
+groq
+langchain-groq
