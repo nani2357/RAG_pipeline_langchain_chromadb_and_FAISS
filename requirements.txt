@@ -18,3 +18,4 @@ beautifulsoup4
 cassio
 groq
 langchain-groq
+sentence_transformers
