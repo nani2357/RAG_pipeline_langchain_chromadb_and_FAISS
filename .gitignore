@@ -132,6 +132,7 @@ venv
 rag_env
 sample_rag.xlsx
 rag_poc.ipynb
+data
 
 # Spyder project settings
 .spyderproject
